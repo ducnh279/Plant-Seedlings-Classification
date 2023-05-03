@@ -1,2 +1,2 @@
-# Plant-Seedlings-Classification
-Plant Seedlings Classification
+- **Data from**: https://www.kaggle.com/competitions/plant-seedlings-classification/data
+- **Kaggle notebook**: https://www.kaggle.com/code/ducnh279/efficientnet-3-heads-cosine-decay
